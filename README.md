@@ -102,6 +102,7 @@ Se implementó correctamente el sistema de autenticación:
 * Inicio de sesión
 ![image alt](https://github.com/Gabriel2025k/documentacion1/blob/494be486065dd273d01b87e3a5e99721c7fd0bf2/login.png.png)
 ![image alt](https://github.com/Gabriel2025k/documentacion1/blob/c419c07bcb7af3b6ffda1eae26bff64b4421dfcf/loginsucc.png.png)
+![image alt](https://github.com/Gabriel2025k/documentacion1/blob/7b12dfc7eb549fbc58162eac902cd7109db9f22d/registro.png.png)
 
 
 
