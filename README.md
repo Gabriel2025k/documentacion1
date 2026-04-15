@@ -13,8 +13,7 @@ Implementar un sistema de autenticación (login y registro) utilizando **Laravel
 
 ---
 
-## 🔧 Requisitos Previos
-
+##  Requisitos Previos
 Para la ejecución del laboratorio se utilizó el siguiente entorno:
 
 * PHP 8.3
@@ -29,7 +28,7 @@ Para la ejecución del laboratorio se utilizó el siguiente entorno:
 
 ---
 
-## ⚙️ Instalación y Comandos Utilizados
+##  Instalación y Comandos Utilizados
 
 ```bash
 composer create-project laravel/laravel pruebaregistrolaravel
@@ -43,7 +42,7 @@ npm run dev
 
 php artisan migrate
 php artisan serve
-```
+
 
 ---
 
@@ -69,7 +68,7 @@ Laravel utiliza el patrón MVC:
 
 Se utilizó MySQL mediante WAMP.
 
-### 📄 Configuración del archivo `.env`
+###  Configuración del archivo `.env`
 
 ```env
 DB_CONNECTION=mysql
@@ -82,9 +81,8 @@ DB_PASSWORD=
 
 ###  Migraciones
 
-```bash
+bash
 php artisan migrate
-```
 
 Se generaron tablas como:
 
@@ -103,13 +101,6 @@ Se implementó correctamente el sistema de autenticación:
 ![image alt](https://github.com/Gabriel2025k/documentacion1/blob/494be486065dd273d01b87e3a5e99721c7fd0bf2/login.png.png)
 ![image alt](https://github.com/Gabriel2025k/documentacion1/blob/c419c07bcb7af3b6ffda1eae26bff64b4421dfcf/loginsucc.png.png)
 ![image alt](https://github.com/Gabriel2025k/documentacion1/blob/7b12dfc7eb549fbc58162eac902cd7109db9f22d/registro.png.png)
-
-
-
-```md
-![Login](ruta_imagen_login)
-![Registro](ruta_imagen_registro)
-```
 
 ---
 
@@ -184,11 +175,8 @@ Abril 2026
 ---
 
 ##  Información del Estudiante
-
-Este laboratorio ha sido desarrollado por:
-
-Nombre: TU NOMBRE
-Correo: TU CORREO
+Nombre: Gabriel zambrano
+Correo: gabriel.zambrano@utp.ac.pa
 Curso: Desarrollo Web VII
 Instructor: Irina Fong
 
