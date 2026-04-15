@@ -65,7 +65,7 @@ Laravel utiliza el patrón MVC:
 
 ---
 
-## 🗄️ Base de Datos
+##  Base de Datos
 
 Se utilizó MySQL mediante WAMP.
 
@@ -100,7 +100,7 @@ Se implementó correctamente el sistema de autenticación:
 
 * Registro de usuario
 * Inicio de sesión
-[image alt](https://github.com/Gabriel2025k/documentacion1/blob/494be486065dd273d01b87e3a5e99721c7fd0bf2/login.png.png)
+![image alt](https://github.com/Gabriel2025k/documentacion1/blob/494be486065dd273d01b87e3a5e99721c7fd0bf2/login.png.png)
 [image alt]
 
 
